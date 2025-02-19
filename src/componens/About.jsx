@@ -16,7 +16,7 @@ function About() {
           <div className=""></div>
 
           <img
-            src="../public/arka2.svg"
+            src="/arka2.svg"
             alt="Logo"
             width={50}
             height={40}
