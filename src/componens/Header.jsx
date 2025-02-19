@@ -10,7 +10,7 @@ function Header() {
           <h1>
             <a href="/" className="logo">
               <img
-                src="../public/arka2.svg"
+                src="/arka2.svg"
                 width={80}
                 height={40}
                 alt="Arief Kamaluddin"

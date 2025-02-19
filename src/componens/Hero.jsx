@@ -8,7 +8,7 @@ function Hero() {
           <div className="flex items-center gap-3">
             <figure className="img-box w-9 h-9 rounded-lg">
               <img
-                src="../public/sidikjari.png"
+                src="/sidikjari.png"
                 width={40}
                 height={40}
                 alt="S"
@@ -32,7 +32,7 @@ function Hero() {
             <Button
               label="Download CV"
               icon="download"
-              href="../public/CV.pdf"
+              href="/CV.pdf"
               target="_blank"
             />
             <ButtonScroll
@@ -46,7 +46,7 @@ function Hero() {
         <div className="hidden lg:block">
           <figure className="w-full max-w-[480px] ml-auto bg-gradient-to-t from-cyan-500 via-25% via-cyan-400/40 to-65% rounded-[200px] overflow-hidden">
             <img
-              src="../public/potrait.png"
+              src="/potrait.png"
               width={656}
               height={800}
               alt="Arief Kamaluddin - Portrait"

@@ -2,37 +2,37 @@ import SkillCard from "./SkillCard";
 
 const skillItem = [
   {
-    imgSrc: "../public/html.svg",
+    imgSrc: "/html.svg",
     label: "HTML",
     desc: "Web",
   },
   {
-    imgSrc: "../public/css3.svg",
+    imgSrc: "/css3.svg",
     label: "CSS",
     desc: "User Interface",
   },
   {
-    imgSrc: "../public/javascript.svg",
+    imgSrc: "/javascript.svg",
     label: "JavaScript",
     desc: "Interaction",
   },
   {
-    imgSrc: "../public/react.svg",
+    imgSrc: "/react.svg",
     label: "React",
     desc: "Framework",
   },
   {
-    imgSrc: "../public/tailwindcss.svg",
+    imgSrc: "/tailwindcss.svg",
     label: "TailwindCSS",
     desc: "User Interface",
   },
   {
-    imgSrc: "../public/nextui.svg",
+    imgSrc: "/nextui.svg",
     label: "NextUI",
     desc: "Utility Component",
   },
   {
-    imgSrc: "../public/github.svg",
+    imgSrc: "/github.svg",
     label: "GitHub",
     desc: "Version Control",
   },

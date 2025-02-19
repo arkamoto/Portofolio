@@ -3,21 +3,21 @@ import ProjectCard from "./ProjectCard";
 
 const works = [
   {
-    imgSrc: "../public/project-1.jpg",
+    imgSrc: "/project-1.jpg",
     title: "Movie Discovery",
     tags: ["API", "Development"],
     projectLink: "https://movie-discovery-six.vercel.app/",
     githubLink: "https://github.com/arkamoto/movie-discovery",
   },
   {
-    imgSrc: "../public/project-2.jpg",
+    imgSrc: "/project-2.jpg",
     title: "Coming Soon ...",
     tags: ["Waiting"],
     projectLink: "",
     githubLink: "",
   },
   {
-    imgSrc: "../public/project-2.jpg",
+    imgSrc: "/project-2.jpg",
     title: "Coming Soon ...",
     tags: ["Waiting"],
     projectLink: "",

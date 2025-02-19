@@ -45,7 +45,7 @@ function ProjectCard({
         <div className="w-11 h-11 rounded-lg grid place-items-center bg-cyan-500 text-slate-900 shrink-0 overflow-visible hover:shadow-xl hover:scale-110 transition-transform duration-300">
           <span className="material-symbols-rounded " aria-hidden="true">
             <a href={githubLink} target="_blank">
-              <img src="../public/github-mark.svg" width={32} height={32} />
+              <img src="/github-mark.svg" width={32} height={32} />
             </a>
           </span>
         </div>

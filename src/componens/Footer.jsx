@@ -101,7 +101,7 @@ function Footer() {
 
         <div className="flex items-center justify-center pt-10 mb-8 gap-6">
           <a className="logo reveal-up" href="/">
-            <img src="../public/arka2.svg" width={40} height={40} alt="Logo" />
+            <img src="/arka2.svg" width={40} height={40} alt="Logo" />
           </a>
 
           <p className="text-slate-400 text-sm reveal-up">

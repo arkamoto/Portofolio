@@ -5,7 +5,7 @@ function Job() {
         <div className="flex flex-col md:flex-row items-stretch gap-6 reveal-up">
           <figure className="aspect-square rounded-lg mb-4 flex-auto w-48 h-48 md:w-64 md:h-64">
             <img
-              src="../public/tgi.png"
+              src="/tgi.png"
               className=" w-full h-full object-contain rounded-lg"
             />
           </figure>
@@ -32,7 +32,7 @@ function Job() {
         <div className="flex flex-col md:flex-row items-stretch gap-6 reveal-up">
           <figure className="aspect-square rounded-lg mb-4 flex-auto w-48 h-48 md:w-64 md:h-64">
             <img
-              src="../public/sawiji.png"
+              src="/sawiji.png"
               className=" w-full h-full object-contain rounded-lg"
             />
           </figure>
